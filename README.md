@@ -1,16 +1,19 @@
-## Hi there 👋
+ ![](https://komarev.com/ghpvc/?username=iheartCandybatz&label=Views+🦇&color=red)
+<p align="center"> 
+<img width="379" height="379" alt="2026_10_05_0i8_Kleki" src="https://github.com/user-attachments/assets/de7b1e09-3d84-4820-9f6d-d94266ab5f6d" />
 
-<!--
-**iheartCandybatz/IheartCandybatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center"> 
+$\color{maroon}\text{She/her}$
+<p align="center"> 
+$\color{maroon}\text{Minor-18+ IWC}$
+<p align="center"> 
+$\color{maroon}\text{15 - 4/26}$
+<p align="center"> 
+$\color{maroon}\text{Spookymonth fans int}$
+<p align="center"> 
+$\color{maroon}\text{Dont be afraid to C+H unless i have DNI in my name}$
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center"> 
+  <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/2718415f-9583-45f6-8f6b-a8f5a8b4f9b5" />
